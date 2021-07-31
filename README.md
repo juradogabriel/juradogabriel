@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juradogabriel
 - 👀 I’m interested in information processing in thermodynamic systems 
 - 🌱 I’m currently learning about ring signatures and cryptocurrency 
-- 💞️ I’m looking to collaborate on information theory and thermodynamic computers 
+- 💞️ I’m looking to collaborate on thermodynamic computation
 - 📫 How to reach me juradogabriel93@gmail.com
 
 <!---
